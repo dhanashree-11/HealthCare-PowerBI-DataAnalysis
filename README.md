@@ -2,7 +2,7 @@
 # Hospital Data Analysis Project
 
 ## Project Overview
-During a one-month training phase at Edunet, I developed a comprehensive dashboard using Power BI to analyze hospital data. The project involved several key steps:
+During  one-month training phase at Edunet, I developed a comprehensive dashboard using Power BI to analyze hospital data. The project involved several key steps:
 - Data collection
 - Data importation
 - Preprocessing
